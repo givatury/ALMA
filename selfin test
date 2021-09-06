@@ -1,0 +1,9 @@
+<div style="display:inline-block" id="kf-embed-container-9e9e5940641596e715368cbe295a3f67"></div>
+<script type="text/javascript" src="https://embed.klipfolio.com/a/js/embed.api"></script>
+<script type="text/javascript">
+KF.embed.embedKlip({
+   profile : "9e9e5940641596e715368cbe295a3f67",
+   settings : {"width":1620,"theme":"light","borderStyle":"round","borderColor":"#cccccc"},
+   title : "Single Value - Sample 1"
+});
+</script>
